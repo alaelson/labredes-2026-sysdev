@@ -17,14 +17,14 @@ Este roteiro faz parte do repositório de aulas práticas **labredes-bsi-2026.02
 Antes de abrir o VirtualBox, você deve garantir que a estrutura de diretórios do laboratório está devidamente organizada para evitar perda de dados e problemas de permissão:
 
 1. Acesse o disco local do host e navegue até a pasta de originais:
-   * **Caminho:** `D:\2026\BSI\VM\original`
+   * **Caminho:** `C:\2026\BSI\VM\original`
 2. Certifique-se de que o arquivo de imagem do sistema operacional está presente nesta pasta:
    * **Arquivo:** `ubuntu-26.04-live-server-amd64.iso`
 3. Crie a sua pasta de trabalho individual onde todos os arquivos da sua VM serão armazenados:
-   * **Caminho:** `D:\2026\BSI\VM\<NomeDoAluno>`
-   * *Substitua `<NomeDoAluno>` pelo seu primeiro e último nome (ex: `D:\2026\BSI\VM\JoaoSilva`).*
+   * **Caminho:** `C:\2026\BSI\VM\<NomeDoAluno>`
+   * *Substitua `<NomeDoAluno>` pelo seu primeiro e último nome (ex: `C:\2026\BSI\VM\JoaoSilva`).*
 4. Dentro da sua pasta, crie um diretório específico para esta máquina:
-   * **Caminho:** `D:\2026\BSI\VM\<NomeDoAluno>\ubuntu_server`
+   * **Caminho:** `C:\2026\BSI\VM\<NomeDoAluno>\ubuntu_server`
 
 ---
 
@@ -32,7 +32,7 @@ Antes de abrir o VirtualBox, você deve garantir que a estrutura de diretórios 
 Abra o VirtualBox e clique em **Novo** (New) para criar a VM. Utilize os seguintes parâmetros técnicos:
 
 * **Nome:** `ubuntu_server`
-* **Pasta da VM (Folder):** Selecione a pasta que você criou no passo anterior (`D:\2026\BSI\VM\<NomeDoAluno>\ubuntu_server`).
+* **Pasta da VM (Folder):** Selecione a pasta que você criou no passo anterior (`C:\2026\BSI\VM\<NomeDoAluno>\ubuntu_server`).
 * **Tipo:** `Linux`
 * **Versão:** `Ubuntu (64-bit)`
 * **Memória RAM:** **512 MB**
@@ -53,7 +53,7 @@ Antes de iniciar a máquina pela primeira vez:
 3. Selecione a controladora IDE (Disco Óptico Vazio).
 4. No painel lateral direito, clique no ícone do CD e selecione **Escolher um arquivo de disco...** (Choose a virtual optical disk file).
 5. Selecione a imagem ISO localizada na pasta de originais:
-   * `D:\2026\BSI\VM\original\ubuntu-26.04-live-server-amd64.iso`
+   * `C:\2026\BSI\VM\original\ubuntu-26.04-live-server-amd64.iso`
 6. Clique em **OK** para salvar as configurações.
 
 ---
@@ -100,8 +100,8 @@ Preencha os dados do administrador do sistema seguindo estritamente as definiç�
 * **Your name:** `Administrador`
 * **Your server's name:** `ubuntu_server`
 * **Pick a username:** `administrador`
-* **Choose a password:** `adminifal`
-* **Confirm your password:** `adminifal`
+* **Choose a passworC:** `adminifal`
+* **Confirm your passworC:** `adminifal`
 
 *Atenção: Não utilize o usuário padrão antigo 'redes'. Toda a administração a partir de agora será conduzida sob o usuário 'administrador'.*
 
