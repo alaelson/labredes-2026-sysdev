@@ -1,5 +1,5 @@
 # Laboratório de Sistemas Operacionais e Redes (LSOR)
-## Curso Técnico em Desenvolvimento de Sistemas - 2026.06
+## Curso Técnico em Desenvolvimento de Sistemas - 2026.02
 
 Repositório oficial para a organização e acompanhamento das práticas de laboratório da disciplina **Laboratório de Sistemas Operacionais e Redes (LSOR)** do curso de **Curso Técnico Integrado em Desenvolvimento de Sistemas** no **Instituto Federal de Alagoas (IFAL) - Campus Maceió**, para o semestre letivo **2026.02**.
 
