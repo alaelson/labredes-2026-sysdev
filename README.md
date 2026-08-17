@@ -1,6 +1,7 @@
-# Laboratório de Sistemas Operacionais e Redes (LSOR) — BSI 2026.02
+# Laboratório de Sistemas Operacionais e Redes (LSOR)
+## Curso Técnico em Desenvolvimento de Sistemas - 2026.06
 
-Repositório oficial para a organização e acompanhamento das práticas de laboratório da disciplina **Laboratório de Sistemas Operacionais e Redes (LSOR)** do curso de **Bacharelado em Sistemas de Informação (BSI)** no **Instituto Federal de Alagoas (IFAL) - Campus Maceió**, para o semestre letivo **2026.02**.
+Repositório oficial para a organização e acompanhamento das práticas de laboratório da disciplina **Laboratório de Sistemas Operacionais e Redes (LSOR)** do curso de **Curso Técnico Integrado em Desenvolvimento de Sistemas** no **Instituto Federal de Alagoas (IFAL) - Campus Maceió**, para o semestre letivo **2026.02**.
 
 Esta disciplina tem natureza eminentemente prática e aplicada, na qual cada conceito de redes e sistemas operacionais é transformado em configuração, teste, diagnóstico e documentação técnica.
 
@@ -16,8 +17,8 @@ Para manter a padronização das práticas, a compatibilidade de redes e a segur
 
 
 ### 📁 Estrutura de Diretórios no Host (Windows do Laboratório)
-*   **Armazenamento de ISOs originais:** `C:\2026\BSI\VM\original` .
-*   **Diretório de Trabalho do Aluno:** `C:\2026\BSI\VM\<NomeDoAluno>` .
+*   **Armazenamento de ISOs originais:** `C:\2026\SysDev\VM\original` .
+*   **Diretório de Trabalho do Aluno:** `C:\2026\SysDev\VM\<NomeDoAluno>` .
 
 ---
 
