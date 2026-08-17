@@ -17,14 +17,14 @@ Este roteiro faz parte do repositório de aulas práticas **labredes-SysDev-2026
 Antes de abrir o VirtualBox, você deve garantir que a estrutura de diretórios do laboratório está devidamente organizada para evitar perda de dados e problemas de permissão:
 
 1. Acesse o disco local do host e navegue até a pasta de originais:
-   * **Caminho:** `C:\2026\SysDev\VM\original`
+   * **Caminho:** `C:\2026.2\SysDevTech\VM\original`
 2. Certifique-se de que o arquivo de imagem do sistema operacional está presente nesta pasta:
    * **Arquivo:** `ubuntu-26.04-live-server-amd64.iso`
 3. Crie a sua pasta de trabalho individual onde todos os arquivos da sua VM serão armazenados:
-   * **Caminho:** `C:\2026\SysDev\VM\<NomeDoAluno>`
-   * *Substitua `<NomeDoAluno>` pelo seu primeiro e último nome (ex: `C:\2026\SysDev\VM\JoaoSilva`).*
+   * **Caminho:** `C:\2026.2\SysDevTech\VM\<NomeDoAluno>`
+   * *Substitua `<NomeDoAluno>` pelo seu primeiro e último nome (ex: `C:\2026.2\SysDevTech\VM\JoaoSilva`).*
 4. Dentro da sua pasta, crie um diretório específico para esta máquina:
-   * **Caminho:** `C:\2026\SysDev\VM\<NomeDoAluno>\ubuntu_server`
+   * **Caminho:** `C:\2026.2\SysDevTech\VM\<NomeDoAluno>\ubuntu_server`
 
 ---
 
@@ -32,7 +32,7 @@ Antes de abrir o VirtualBox, você deve garantir que a estrutura de diretórios 
 Abra o VirtualBox e clique em **Novo** (New) para criar a VM. Utilize os seguintes parâmetros técnicos:
 
 * **Nome:** `ubuntu_server`
-* **Pasta da VM (Folder):** Selecione a pasta que você criou no passo anterior (`C:\2026\SysDev\VM\<NomeDoAluno>\ubuntu_server`).
+* **Pasta da VM (Folder):** Selecione a pasta que você criou no passo anterior (`C:\2026.2\SysDevTech\VM\<NomeDoAluno>\ubuntu_server`).
 * **Tipo:** `Linux`
 * **Versão:** `Ubuntu (64-bit)`
 * **Memória RAM:** **512 MB**
@@ -53,7 +53,7 @@ Antes de iniciar a máquina pela primeira vez:
 3. Selecione a controladora IDE (Disco Óptico Vazio).
 4. No painel lateral direito, clique no ícone do CD e selecione **Escolher um arquivo de disco...** (Choose a virtual optical disk file).
 5. Selecione a imagem ISO localizada na pasta de originais:
-   * `C:\2026\SysDev\VM\original\ubuntu-26.04-live-server-amd64.iso`
+   * `C:\2026.2\SysDevTech\VM\original\ubuntu-26.04-live-server-amd64.iso`
 6. Clique em **OK** para salvar as configurações.
 
 ---
