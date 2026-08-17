@@ -127,13 +127,3 @@ Após o reinício completo da máquina virtual:
 3. Digite a senha `adminifal` quando solicitado pelo `sudo`.
 4. Instale o **VirtualBox Extension Pack** no computador hospedeiro (se ainda não o tiver) acessando o site oficial: [virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads).
 
----
-
-## 7. Entregáveis do Laboratório (Relatório)
-Como parte do comportamento profissional e avaliação da disciplina, cada aluno deve documentar a prática e enviar o link de seu relatório no GitHub:
-
-* O relatório deve seguir o modelo de 7 tópicos (Identificação, Objetivo, Ambiente, Procedimento, Testes com capturas de tela das etapas chave, Problemas/Soluções e Conclusão).
-* Capture imagens específicas que comprovem:
-  1. A tela do sumário de partições com as 3 divisões (`/`, `/boot`, `swap`).
-  2. O primeiro login realizado com sucesso pelo usuário `administrador`.
-  3. A saída bem-sucedida do comando `sudo apt-get update`.
