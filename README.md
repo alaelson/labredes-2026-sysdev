@@ -17,8 +17,8 @@ Para manter a padronização das práticas, a compatibilidade de redes e a segur
 
 
 ### 📁 Estrutura de Diretórios no Host (Windows do Laboratório)
-*   **Armazenamento de ISOs originais:** `C:\2026\SysDev\VM\original` .
-*   **Diretório de Trabalho do Aluno:** `C:\2026\SysDev\VM\<NomeDoAluno>` .
+*   **Armazenamento de ISOs originais:** `C:\2026.2\SysDevTech\VM\original` .
+*   **Diretório de Trabalho do Aluno:** `C:\2026.2\SysDevTech\VM\<NomeDoAluno>` .
 
 ---
 
